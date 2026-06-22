@@ -35,7 +35,7 @@ function Hero() {
 
           {/* Heading */}
           <h1 className="mt-10 text-5xl font-extrabold leading-[1.1] tracking-tight text-[#1f2227] sm:text-6xl">
-            Premium Web Hosting for Your Website
+            Premium "Web Hosting" for Your Website
           </h1>
 
           {/* Description */}
